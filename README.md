@@ -8,3 +8,5 @@ next go to web browser and navigate to localhost/MAMP
 create new directory named "music2"
 ![image](https://github.com/ccafer/SQL_Database_App_with_Windows_GUI/assets/61919465/10047384-2123-4db6-91a7-e33aaa97994b)
 we will populate this data with albums of music
+![image](https://github.com/ccafer/SQL_Database_App_with_Windows_GUI/assets/61919465/4964277a-3dc2-4475-863b-9d502f16322a)
+
